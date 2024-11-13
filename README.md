@@ -16,7 +16,7 @@ Before running the project, ensure you have the following installed:
 **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/MinDutch03/TicTacToe.git
+git clone https://github.com/MinDutch03/TicTacToe.git
 ```
 
 1. Navigate to the Project Directory:
